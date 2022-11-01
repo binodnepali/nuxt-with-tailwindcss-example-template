@@ -1,8 +1,8 @@
-# NuxtJS With Typescript Example Template
+# Nuxt.js with tailwindcss example template
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-An example template scaffolded using [Nuxt.js](https://v3.nuxtjs.org) with Typescript and [sass](https://sass-lang.com/) to start a new project.
+This template was scaffolded from [nuxtjs-with-typescript-example-template](https://github.com/binodnepali/nuxtjs-with-typescript-example-template). The template adds [tailwindcss module](https://tailwindcss.nuxtjs.org/) so that you can  start a new project using [nuxt3](https://v3.nuxtjs.org/) and [tailwindcss](https://tailwindcss.com/).
 
 ## Why this template
 
@@ -22,16 +22,16 @@ You can setup this project using npm or yarn package managers.
 
 ```bash
 # https
-git clone https://github.com/binodnepali/nuxtjs-with-typescript-example-template.git
+git clone https://github.com/binodnepali/nuxtjs-with-tailwindcss-example-template.git
 
 # ssh
-git clone git@github.com:binodnepali/nuxtjs-with-typescript-example-template.git
+git clone git@github.com:binodnepali/nuxtjs-with-tailwindcss-example-template.git
 ```
 
 ### Navigate to cloned repo
 
 ```bash
-cd nuxtjs-with-typescript-example-template
+cd nuxtjs-with-tailwindcss-example-template
 ```
 
 ### Setup
